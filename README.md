@@ -19,6 +19,13 @@ My goal is to become a **professional software engineer**, creating innovative a
 I am constantly learning and exploring new technologies, focusing on **mobile app development, state management, backend integration, and performance optimization** to deliver high-quality solutions.
 
 🛠️ Tech Stack
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-4479A1?style=flat&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![SharedPreferences](https://img.shields.io/badge/SharedPreferences-4DB6AC?style=flat&logo=google&logoColor=white)
