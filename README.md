@@ -20,6 +20,8 @@ I am constantly learning and exploring new technologies, focusing on **mobile ap
 
 🛠️ Tech Stack
 
+<p align="center">
+  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
@@ -29,3 +31,5 @@ I am constantly learning and exploring new technologies, focusing on **mobile ap
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![SharedPreferences](https://img.shields.io/badge/SharedPreferences-4DB6AC?style=flat&logo=google&logoColor=white)
+
+</p>
