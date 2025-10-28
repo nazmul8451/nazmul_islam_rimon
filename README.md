@@ -33,3 +33,48 @@ I am constantly learning and exploring new technologies, focusing on **mobile ap
 ![SharedPreferences](https://img.shields.io/badge/SharedPreferences-4DB6AC?style=flat&logo=google&logoColor=white)
 
 </p>
+
+### 📱 Projects
+
+#### 🗂️ Task Manager App  
+A clean and functional **Task Management** app built with **Flutter**, **GetX**, and **REST API** integration.  
+- Add, update, and delete tasks  
+- Manage task completion with checkbox  
+- Backend integrated using real API  
+- Local caching for smooth UX  
+🛠️ Tech: Flutter · GetX · REST API · JSON · HTTP  
+
+🔗 [View on GitHub](https://github.com/yourusername/task_manager_app)
+
+---
+
+#### 🌦️ Weather App  
+A beautiful **Weather Forecast** app that fetches live weather data using **OpenWeather API**.  
+- Real-time temperature, humidity, and wind updates  
+- Auto location detection  
+- Animated weather icons  
+🛠️ Tech: Flutter · Provider · REST API · Geolocator  
+
+🔗 [View on GitHub](https://github.com/yourusername/weather_app)
+
+---
+
+#### 🛒 Grocery App  
+A modern **E-Commerce UI** app for grocery shopping experience.  
+- Product listing, cart system, and checkout UI  
+- Responsive, clean and minimal design  
+- Built with state management for scalability  
+🛠️ Tech: Flutter · GetX · Firebase (future plan)  
+
+🔗 [View on GitHub](https://github.com/yourusername/grocery_app)
+
+---
+
+#### 💾 SQLite CRUD App  
+A simple yet powerful **CRUD (Create, Read, Update, Delete)** demo using **SQLite** for offline data storage.  
+- Local database management  
+- Add / edit / delete records  
+- Ideal for learning database operations in Flutter  
+🛠️ Tech: Flutter · SQLite · Sqflite Plugin  
+
+🔗 [View on GitHub](https://github.com/yourusername/sqlite_crud_app)
