@@ -17,3 +17,8 @@ I enjoy **problem-solving** and transforming complex challenges into efficient, 
 My goal is to become a **professional software engineer**, creating innovative apps that make a real impact in users’ daily lives.  
 
 I am constantly learning and exploring new technologies, focusing on **mobile app development, state management, backend integration, and performance optimization** to deliver high-quality solutions.
+
+🛠️ Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
