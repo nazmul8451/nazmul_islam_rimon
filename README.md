@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YourUserName/YourRepoName/main/Nazmul%20islam%20Rimon.png" alt="Cover Image" width="100%" />
+</p>
 🧑‍💻 Rimon Islam — Flutter Developer | Mobile App Engineer
 
 Hi there 👋  
