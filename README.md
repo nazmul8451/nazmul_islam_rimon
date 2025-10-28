@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nazmul8451/nazmul_islam_rimon/blob/main/Nazmul%20islam%20Rimon.png" />
+  <img src="https://github.com/nazmul8451/nazmul_islam_rimon/blob/main/Nazmul%20islam%20Rimon%20(1).png" />
 </p>
 🧑‍💻 Rimon Islam — Flutter Developer | Mobile App Engineer
 
