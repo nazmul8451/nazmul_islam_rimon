@@ -21,16 +21,29 @@ I am constantly learning and exploring new technologies, focusing on **mobile ap
 🛠️ Tech Stack
 
 <p align="center">
-  
+
+<!-- Languages -->
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+
+<!-- Frameworks & Tools -->
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat&logo=flutter&logoColor=white)
 ![Provider](https://img.shields.io/badge/Provider-4479A1?style=flat&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![SharedPreferences](https://img.shields.io/badge/SharedPreferences-4DB6AC?style=flat&logo=google&logoColor=white)
+
+<!-- Additional App Dev Tools -->
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat&logo=postman&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FFC107?style=flat&logo=hive&logoColor=black)
+![Sqflite](https://img.shields.io/badge/Sqflite-4DB6AC?style=flat&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
 </p>
 
