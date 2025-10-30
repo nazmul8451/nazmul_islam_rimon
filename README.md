@@ -19,7 +19,6 @@ My goal is to become a **professional software engineer**, creating innovative a
 I am constantly learning and exploring new technologies, focusing on **mobile app development, state management, backend integration, and performance optimization** to deliver high-quality solutions.
 
 🛠️ Tech Stack
-
 <p align="center">
 
 <!-- Languages -->
@@ -34,11 +33,11 @@ I am constantly learning and exploring new technologies, focusing on **mobile ap
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![SharedPreferences](https://img.shields.io/badge/SharedPreferences-4DB6AC?style=flat&logo=google&logoColor=white)
+![GetStorage](https://img.shields.io/badge/GetStorage-8E24AA?style=flat&logo=flutter&logoColor=white)
 
 <!-- Additional App Dev Tools -->
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat&logo=postman&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FFC107?style=flat&logo=hive&logoColor=black)
 ![Sqflite](https://img.shields.io/badge/Sqflite-4DB6AC?style=flat&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -46,6 +45,7 @@ I am constantly learning and exploring new technologies, focusing on **mobile ap
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
 </p>
+
 
 ### 📱 Projects
 
