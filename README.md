@@ -57,7 +57,7 @@ A clean and functional **Task Management** app built with **Flutter**, **GetX**,
 - Local caching for smooth UX  
 🛠️ Tech: Flutter · GetX · REST API · JSON · HTTP  
 
-🔗 [View on GitHub](https://github.com/yourusername/task_manager_app)
+🔗 [View on GitHub](https://github.com/nazmul8451/Task-Manager.git)
 
 ---
 
@@ -68,7 +68,7 @@ A beautiful **Weather Forecast** app that fetches live weather data using **Open
 - Animated weather icons  
 🛠️ Tech: Flutter · Provider · REST API · Geolocator  
 
-🔗 [View on GitHub](https://github.com/yourusername/weather_app)
+🔗 [View on GitHub](https://github.com/nazmul8451/Weather-App-with-API.git)
 
 ---
 
@@ -79,7 +79,7 @@ A modern **E-Commerce UI** app for grocery shopping experience.
 - Built with state management for scalability  
 🛠️ Tech: Flutter · GetX · Firebase (future plan)  
 
-🔗 [View on GitHub](https://github.com/yourusername/grocery_app)
+🔗 [View on GitHub](https://github.com/nazmul8451/Online-Grocary-App.git)
 
 ---
 
@@ -90,4 +90,4 @@ A simple yet powerful **CRUD (Create, Read, Update, Delete)** demo using **SQLit
 - Ideal for learning database operations in Flutter  
 🛠️ Tech: Flutter · SQLite · Sqflite Plugin  
 
-🔗 [View on GitHub](https://github.com/yourusername/sqlite_crud_app)
+🔗 [View on GitHub](https://github.com/nazmul8451/SQLite-CRUD-APP.git)
